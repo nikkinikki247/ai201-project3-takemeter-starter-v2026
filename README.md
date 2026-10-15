@@ -42,7 +42,7 @@
 <!-- Your community, and what your classifier sorts posts into. Three or four
      sentences. -->
 
-I chose the r/vegetablegardening community on Reddit. I noticed that most posts display harvest photos and descriptions. The rest of the posts are either gardening questions or personal stories.
+I chose the r/utdallas community on Reddit. I noticed that most posts are questions that students have. Other posts are rants and announcements like lost and found or petitions.
 
 ---
 
