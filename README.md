@@ -57,32 +57,54 @@ I chose the r/utdallas community on Reddit. I noticed that most posts are questi
 ### `label_one`
 
 **Definition:**
-
+questions - this label includes questions students have.
 **Example 1:**
 
->
+> is there a poker club?
+> I imagine actual gambling probably wouldn't be allowed by the school for an official club, but is there even a club that just uses fake money/chips? feel like i remember seeing a poster for one like a year ago but never heard anything after. if there isn't one, would yall be interested? i just like playing poker
 
 **Example 2:**
 
->
+> Actuarial Science at UTD
+> Hey! I'm currently a senior in high school and I recently got accepted into UTD for actuarial science (fall 2027). I just had a couple of questions about the program for students that are currently in the program and I'd appreciate any insight!
+
+How are you liking UTD and the actuarial science program so far?
+How are the internship & networking opportunities? Does UTD help students connect with companies or is it mostly up to you to find opportunities? I'd also love to know how hard it is for ppl to actually land that internship.
+Is there a community/online community for act sci students at UTD? Since it's such a niche major, I'm curious if everyone tends to know each other and help each other out, especially for exams/finding internships. I'm also a bit shy, so I'd love to know about how easy/hard it is to meet other people in the program 😭.
+Do you feel like the program is preparing you well? Are the professors helpful when it comes to figuring stuff out?
+Do professors lean more towards CAS/SOA or is it even ish?
+Are there any actuarial clubs/organizations/groups you'd recommend joining as a freshman?
+If there's any tips/advice other than that, feel free to mention it, I appreciate any advice!
+
+And if you're also a senior or incoming freshman at UTD for fall 2027, feel free to message me! :)
 
 ### `label_two`
 
 **Definition:**
+discussion - this label includes posts that doesn't ask questions for the reader to respond to.
 
 **Example 1:**
 
->
+> I have to post this 😁 !!
+> Thanks to whoever wrote this , it genuinely made me smile . I rushed to post it here after I saw the last line .
 
 **Example 2:**
 
->
+> Felt so lonely today...
+> I was free after my classes today and didn't want to go back home because that's what led me to being sad, in mid-20s with no social circle.
+
+I was just walking around, trying to meet new people or make friends or muster the courage to ask out a girl or two too. None of this happened but what I observed was not a single person was there all by themselves. Some were but they were talking or texting on their phones.
+
+I felt so so lonely. I don't have any one to call my friends or my partner. Everyone was laughing, having fun and all I could do was see all the students and regret that I wasted my life. I don't know how I ended up here but this is my life's last semester of education and I have no good memories of my school life. It was always struggling to keep up with studies, being laughed at or bullied and graduating with no job.
+
+Just when I was about to go back home, this person was talking to someone on their phone and literally said "I made a new friend today". I knew this person would give me a chance because they like making new friends but the moment I walked up, I realized the age difference wouldn't work at all. I don't know what else to do in life now.
 
 ### The hardest boundary
 
 **Which two labels:**
-
+the only two I have
 **The decision rule I used every time:**
+If the post uses at least one non-rhetorical question directed towards the reader, it's `questions`.
 
 <!-- e.g. "If the post names a specific checkable fact, it's `analysis`, even
      if the tone is heated." -->
