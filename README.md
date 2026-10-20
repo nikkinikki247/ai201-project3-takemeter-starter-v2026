@@ -117,18 +117,17 @@ If the post uses at least one non-rhetorical question directed towards the reade
      cases. -->
 
 **Where the posts came from:**
-
+UT Dallas subreddit
 **How I labelled them:** <!-- Cold first? Pre-labelled with AI and corrected?
-Say so plainly — the disclosure is required, not penalised. -->
+I cold labelled all of them. I could only do 57 because time ran out.
 
 **Counts per label:**
 
-| Label     | Count | Share |
-| --------- | ----- | ----- |
-|           |       |       |
-|           |       |       |
-|           |       |       |
-| **Total** |       | 100%  |
+| Label      | Count | Share |
+| ---------- | ----- | ----- |
+| discussion | 21    | 37%   |
+| questions  | 36    | 63%   |
+| **Total**  | 57    | 100%  |
 
 **Three hard cases**
 
@@ -138,26 +137,26 @@ Say so plainly — the disclosure is required, not penalised. -->
 **1.**
 
 > _The post:_
->
-> _Could have been:_
->
-> _I chose, because:_
+> Sharif Iqbal Mitu Sheikh for EE 3320 didnt find him on rmp, so if someone could share thier experience with his class thatd be great!
+> \_Could have been: discussion
+> \_I chose, questions because the individual wants a response and are still asking a question indirectly.
 
 **2.**
 
 > _The post:_
+> hey guys would y'all mind doing a quick interview about the comet cupboard? you just have to either type out the answers to these questions in the comments or you can shoot me a dm! if you know fully about the comet cupboard or have used it in the past 6 months, please consider answering as it's for my group project 🥹 What made you choose the comet cupboard? How did you discover the comet cupboard? What was the most frustrating part of using this service? 4.Walk me through the whole experience of your using the Comet Cupboard. 5. Anything that you would want to change about this service?
 >
-> _Could have been:_
+> \_Could have been: questions
 >
-> _I chose, because:_
+> \_I chose, discussion because: the main question is asking if the reader minded doing an interview, but this is a rhetorical question. The following questions in the post are interview questions, which are not direct questions to the reader.
 
 **3.**
 
 > _The post:_
+> Student research Student researcher (coauthor) needed. Ideal for a chemistry, math, or physics student. Coupled cluster (CC) theory gives electronic or nucleonic correlation information inside an atom. I want to calculate quantum information science metrics via the density matrix. I have the roadmap, we probably could finish it this semester. I’ve published with students in the past. Benefits: paper will be posted on arXiv and submitted for publication; learn coupled cluster theory; Starbucks from time to time; bring a friend. Requirements: calculus; not afraid of vectors and matrices; will use Python but ChatGPT can help us code; meet on campus 1-2 weekly. Please tell me your major, year, number of hours you’re taking this semester. Thanks for reading.
+> \_Could have been: questions
 >
-> _Could have been:_
->
-> _I chose, because:_
+> \_I chose discussion, because: this is a job post.
 
 ---
 
