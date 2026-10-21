@@ -187,17 +187,18 @@ of next unit's variance. -->
 
 **Moment 1**
 
-- _What I asked for:_
-- _What came back:_
-- _What I changed:_
+- \_What I asked for: I asked AI about how to build confidence accpetance criteria
+- \_What came back: Information about confidence levels
+- \_What I changed: I just didn't use the information, but I understood confidence more
 
 **Moment 2**
 
-- _What I asked for:_
-- _What came back:_
-- _What I changed:_
+- \_What I asked for: I asked for definition of the word "discussion". I did this to make sure I was picking the right label.
+- \_What came back: Definition of the word
+- \_What I changed: I changed the definition of the label.
 
 **Pre-labelling disclosure:**
+I did not use AI to pre-label.
 
 <!-- ═══════════════════════ UNIT 6 — THE TEST ═══════════════════════
 
